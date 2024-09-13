@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+.page-contaniner  {
+  background: #2b303e;
+}
+
+.form-dark {
+  background-color: #343a40 !important;
+  color: #fff !important;
+}
+
+.form-dark::placeholder {
+  color: #fff !important;
+}
